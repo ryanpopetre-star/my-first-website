@@ -1,0 +1,8 @@
+body {
+    background-color: #f0f8ff; /* 浅蓝色背景 */
+    font-family: sans-serif;   /* 现代无衬线字体 */
+    text-align: center;        /* 文字居中 */
+}
+h1 {
+    color: #2c3e50;            /* 标题颜色 */
+}
